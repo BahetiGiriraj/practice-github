@@ -16,7 +16,8 @@ Basic Workflow
 3. git branch - tell the the branch name in a repo
 4. git checkout -b new-branch - create new branch but also copy the content of main
 5. git swtich branch-name - to swtich b/w branchs
-6. git branch -d branch-name - delete a branch 
+6. git branch -d branch-name - delete a branch
+7. 
 
 Viewing Changes
 
