@@ -13,7 +13,9 @@ Basic Workflow
 
 1. git add - add file to the git repo
 2. git commit -m "" - commit the file , staged to tracked , means all the changes will be tracked now 
-
+3. git branch - tell the the branch name in a repo
+4. git checkout -b new-branch - create new branch but also copy the content of main
+5. git swtich branch-name - to swtich b/w branchs 
 
 Viewing Changes
 
