@@ -6,8 +6,7 @@ Setup & Config
 what it does - set user/config option to all repo for an account 
 
 2. git init - initall the git repo in a folder 
-
-
+3. git config -  to check the user 
 
 Basic Workflow
 
