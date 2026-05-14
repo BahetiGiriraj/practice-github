@@ -18,7 +18,7 @@ Basic Workflow
 6. git branch -d branch-name - delete a branch
 7. git merge - merge the changes into another branch
 8. git rebase -  used to reapply commits from one branch onto another
-
+9. 
 
 Viewing Changes
 
