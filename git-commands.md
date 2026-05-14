@@ -24,3 +24,5 @@ Viewing Changes
 
 1. git status - give us the status of the folder/file (Untrack , staged , track) 
 2. git log - give the history of the files , when they commit , who did it , where and the hash of that file 
+3. git diff - display changes between different versions of your code
+
