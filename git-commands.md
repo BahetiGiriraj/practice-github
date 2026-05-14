@@ -17,7 +17,8 @@ Basic Workflow
 5. git swtich branch-name - to swtich b/w branchs
 6. git branch -d branch-name - delete a branch
 7. git merge - merge the changes into another branch
-8.
+8. git rebase -  used to reapply commits from one branch onto another
+
 
 Viewing Changes
 
